@@ -12,6 +12,11 @@
  overflow-x: auto;
 }
 
+.swiper-slide{
+    width: 350px;
+    height: 450px;
+}
+
 .swiper-slide img {
     width: 100%;
 }
